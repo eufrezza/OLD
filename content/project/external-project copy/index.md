@@ -1,6 +1,6 @@
 ---
-title: 'Natural Resources and Education'
-summary: Joint with Selim Gulesci and Ashikur Rahaman
+title: 'Intimate Partner Violence and Attitudes in India'
+#summary: Draft available soon. 
  #tags:
    #- Demo
  #date: "2016-04-27T00:00:00Z"
