@@ -1,17 +1,15 @@
+---
+title: Teaching
+cms_exclude: true
 
-date: "2019-2020"
-draft: false 
-caption: '1st year Undergraduate'
-summary: Lecturers: Prof. Gaia Narciso, Prof. Joe Kopecky 
-tags:
-   - teaching
-title:   'Economic Policy'
-date: "2016-04-27T00:00:00Z"
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
 
-# Optional external URL for project (replaces project detail page).
- #external_link: https://example.org
-
-#image:
- # caption: Photo by Toa Heftiba on Unsplash
-  # focal_point: Smart
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ''
+  image: ''
 ---
