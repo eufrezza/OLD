@@ -8,12 +8,18 @@ sections:
  
   - block: about.avatar
     id: about
+    folders:
+      - home 
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text: BIO
-  - block: portfolio
+      text: I am a PhD candidate in Economics at Trinity College Dublin and I am an Irish Research Council scholar. My main research interests revolve around social Norms, intimate partner violence, and education in developing countries.
+
+      
+       
+    
+  - block: collection
     id: projects
     content:
       title: Projects
@@ -36,7 +42,7 @@ sections:
         #  tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: compact
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
@@ -47,7 +53,7 @@ sections:
       title: Teaching
       filters:
         folders:
-          - event
+          - teaching
     design:
       columns: '2'
       view: compact
