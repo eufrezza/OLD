@@ -12,12 +12,15 @@ sections:
       - home 
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: eugeniafre
       # Override your bio text from `authors/admin/_index.md`?
-      text: I am a PhD candidate in Economics at Trinity College Dublin and I am an Irish Research Council scholar. My main research interests revolve around social Norms, intimate partner violence, and education in developing countries.
-
+      text: 
+    design:
+      columns: '2'
       
        
+
+  
     
   - block: collection
     id: projects
@@ -58,4 +61,12 @@ sections:
       columns: '2'
       view: compact
 
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      # Contact (add or remove contact options as necessary)
+      email: frezzae@tcd.ie
+    design:
+      columns: '2'
 ---

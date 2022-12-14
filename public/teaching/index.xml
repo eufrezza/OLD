@@ -5,7 +5,7 @@
     <link>https://eufrezza.github.io/teaching/</link>
       <atom:link href="https://eufrezza.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Jan 2019 11:48:47 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 11:48:47 +0100</lastBuildDate>
     <image>
       <url>https://eufrezza.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Teaching</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
-      <title>CompEcon</title>
-      <link>https://eufrezza.github.io/teaching/econpolicy/</link>
-      <pubDate>Sat, 12 Jan 2019 11:48:47 +0100</pubDate>
-      <guid>https://eufrezza.github.io/teaching/econpolicy/</guid>
+      <title>Impact Evaluation (Msc)</title>
+      <link>https://eufrezza.github.io/teaching/example/impact-evaluation/</link>
+      <pubDate>Thu, 01 Sep 2022 11:48:47 +0100</pubDate>
+      <guid>https://eufrezza.github.io/teaching/example/impact-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Econometrics (3rd-year Bsc)</title>
+      <link>https://eufrezza.github.io/teaching/example/econometrics/</link>
+      <pubDate>Tue, 01 Sep 2020 11:48:47 +0100</pubDate>
+      <guid>https://eufrezza.github.io/teaching/example/econometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economic Policy (1st-year Bsc)</title>
+      <link>https://eufrezza.github.io/teaching/example/econpolicy/</link>
+      <pubDate>Sun, 01 Sep 2019 11:48:47 +0100</pubDate>
+      <guid>https://eufrezza.github.io/teaching/example/econpolicy/</guid>
       <description></description>
     </item>
     
