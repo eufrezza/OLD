@@ -1,8 +1,8 @@
 ---
-title: 'Fast Internet and Gender Norms: Evidence from Sub-Saharan Africa'
-summary: Awarded Best Paper by a Woman Economist by the Irish Economic Association
+title: 'Female Genital Cutting and Intimate Partner Violence: Theory and Evidence from Nigeria'
+summary: Joint with Suzanna Khalifa
 tags:
-  - Deep Learning
+  - Demo
 date: ''
 
 # Optional external URL for project (replaces project detail page).
@@ -29,4 +29,3 @@ date: ''
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-
