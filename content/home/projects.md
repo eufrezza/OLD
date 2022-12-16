@@ -27,9 +27,9 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
+    - name: Working Papers
       tag: Deep Learning
-    - name: Other
+    - name: Work in Progress
       tag: Demo
 
 design:
