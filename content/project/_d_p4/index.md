@@ -2,7 +2,7 @@
 title: 'Female Genital Cutting and Intimate Partner Violence: Theory and Evidence from Nigeria'
 summary: Joint with Suzanna Khalifa
 tags:
-  - Demo
+  - Work in Progress
 date: ''
 
 # Optional external URL for project (replaces project detail page).

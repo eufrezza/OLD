@@ -2,7 +2,7 @@
 title: 'Fast Internet and Gender Norms: Evidence from Sub-Saharan Africa'
 summary: Awarded Best Paper by a Woman Economist by the Irish Economic Association
 tags:
-  - Deep Learning
+  - Working Papers
 date: ''
 
 # Optional external URL for project (replaces project detail page).

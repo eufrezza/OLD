@@ -2,7 +2,7 @@
 title: 'Intimate Partner Violence and Attitudes in India'
 summary: 
 tags:
-  - Demo
+  - Work in Progress
 date: ''
 
 # Optional external URL for project (replaces project detail page).

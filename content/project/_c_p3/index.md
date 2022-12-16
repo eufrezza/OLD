@@ -2,7 +2,7 @@
 title: 'Natural Resources and Education'
 summary: Joint with Selim Gulesci and Ashikur Rahman
 tags:
-  - Demo
+  - Work in Progress
 date: ''
 
 # Optional external URL for project (replaces project detail page).
