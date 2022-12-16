@@ -1,8 +1,8 @@
 ---
-title: 'Fast Internet and Gender Norms: Evidence from Sub-Saharan Africa'
-summary: Awarded Best Paper by a Woman Economist by the Irish Economic Association
+title: 'Natural Resources and Education'
+summary: Joint with Selim Gulesci and Ashikur Rahman
 tags:
-  - Deep Learning
+  - Demo
 date: ''
 
 # Optional external URL for project (replaces project detail page).
