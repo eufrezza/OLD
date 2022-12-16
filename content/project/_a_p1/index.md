@@ -29,4 +29,3 @@ date: ''
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-
