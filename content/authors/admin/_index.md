@@ -67,4 +67,4 @@ highlight_name: true
 ---
 
 I am a PhD Candidate in Economics at Trinity College Dublin and an Irish Research Council Scholar. I am also affiliated with the Trinity Impact Evaluation Unit (TIME). My fields of research are at the intersection between Gender and Development Economics.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}} CV{{< /staticref >}}.
