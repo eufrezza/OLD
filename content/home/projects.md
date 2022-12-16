@@ -28,9 +28,9 @@ content:
     - name: All
       tag: '*'
     - name: Working Papers
-      tag: Deep Learning
+      tag: Working Papers
     - name: Work in Progress
-      tag: Demo
+      tag: Work in Progress
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
