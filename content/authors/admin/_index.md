@@ -18,9 +18,9 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Development Economics
-  - Gender Economics
-  
+  - Social Norms
+  - Intimate-Partner-Violence
+  - Education
   
 
 # Education to show in About widget
@@ -66,5 +66,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD Candidate in Economics at Trinity College Dublin and an Irish Research Council Scholar. I am also affiliated with the Trinity Impact Evaluation Unit (TIME). My main research interests revolve around Social Norms, Intimate Partner Violence, and Education. 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+I am a PhD Candidate in Economics at Trinity College Dublin and an Irish Research Council Scholar. I am also affiliated with the Trinity Impact Evaluation Unit (TIME). My fields of research are at the intersection between Gender and Development Economics.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
