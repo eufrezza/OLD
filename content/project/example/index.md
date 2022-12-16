@@ -1,5 +1,5 @@
 ---
-title: 'Fast Internet and Gender Norms: Evidence from Sub-Saharan Africa'
+title: Example Project
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
