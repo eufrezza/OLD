@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson ggg
+title: Eugenia Frezza
 
 # Is this the primary user of the site?
 superuser: true
