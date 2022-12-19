@@ -22,7 +22,11 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-
+item:
+  - title: Econometrics 
+    date_end: ''
+    date_start: ''
+    description: ''
 
 design:
   columns: '2'
