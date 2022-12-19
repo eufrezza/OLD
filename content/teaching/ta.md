@@ -24,8 +24,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - title: Econometrics 
-    date_end: ''
-    date_start: ''
+    date_end: '2021-05-30'
+    date_start: '2020-09-01'
     description: ''
 
 design:
