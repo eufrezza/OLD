@@ -22,10 +22,24 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 item:
-  - title: Econometrics 
-    date_end: '2021-05-30'
+  - title: Economic Policy (Bsc, year 1)
+    date_end: '2020-05-30'
+    date_start: '2019-09-01'
+    description: ''
+
+
+item:
+  - title: Econometrics (Bsc, year 3)
+    date_end: '2022-01-30'
     date_start: '2020-09-01'
+    description: ''
+
+item:
+  - title: Impact Evaluation (Msc)
+    date_end: '2022-12-30'
+    date_start: '2022-09-01'
     description: ''
 
 design:
