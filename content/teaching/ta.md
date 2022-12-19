@@ -27,20 +27,20 @@ item:
   - title: Economic Policy (Bsc, year 1)
     date_end: '2020-05-30'
     date_start: '2019-09-01'
-    description: ''
+    description: 'Lecturers: Prof. [Gaia Narciso](), Prof. [Joe Kopecky]()'
 
 
 item:
   - title: Econometrics (Bsc, year 3)
     date_end: '2022-01-30'
     date_start: '2020-09-01'
-    description: ''
+    description: 'Prof. [Nicola Mastrorocco](), Prof. [Gaia Narciso]()'
 
 item:
   - title: Impact Evaluation (Msc)
     date_end: '2022-12-30'
     date_start: '2022-09-01'
-    description: ''
+    description: 'Prof. [Alejandra Ramos]()'
 
 design:
   columns: '2'
