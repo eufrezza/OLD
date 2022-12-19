@@ -1,7 +1,7 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-#widget: accomplishments
+#widget: et
 
 # This file represents a page section.
 #headless: true
@@ -10,7 +10,7 @@
 #weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Teaching'
+#title: 'Accomplish&shy;ments'
 #subtitle:
 
 # Date format
@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
- # 
-   date_end: ''
+  - certificate_url: https://www.coursera.org
+    date_end: ''
    date_start: '2021-01-25'
-   description: ''
-  #  organization: Coursera
-  #  organization_url: https://www.coursera.org
-    title: Econometrics
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+  #  title: Neural Networks and Deep Learning
   #  url: ''
   #- certificate_url: https://www.edx.org
   #  date_end: ''
@@ -48,6 +48,6 @@ item:
   #  title: 'Object-Oriented Programming in R'
   #  url: ''
 
-#design:
- # columns: '2'
+design:
+  columns: '2'
 ---
