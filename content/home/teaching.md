@@ -1,42 +1,47 @@
 ---
-# An instance of the Portfolio widget.
+# An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
+widget: teaching
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 30
 
-title: Teaching
-subtitle: ''
+# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+title: 'Teaching'
+#subtitle:
 
-content:
-  # Page type to display. E.g. project.
-  page_type: ta
+# Date format
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
-  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
+# Accomplishments.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`filter_button` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove the toolbar, delete the entire `filter_button` block.
-  
+item:
+  - title: Economic Policy (Bsc, year 1)
+    date_end: '2020-05-30'
+    date_start: '2019-09-01'
+    description: 'Lecturers: Prof. [Gaia Narciso](), Prof. [Joe Kopecky]()'
+
+
+item:
+  - title: Econometrics (Bsc, year 3)
+    date_end: '2022-01-30'
+    date_start: '2020-09-01'
+    description: 'Prof. [Nicola Mastrorocco](), Prof. [Gaia Narciso]()'
+
+item:
+  - title: Impact Evaluation (Msc)
+    date_end: '2022-12-30'
+    date_start: '2022-09-01'
+    description: 'Prof. [Alejandra Ramos]()'
 
 design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
-
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view: 2
-
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
 ---
