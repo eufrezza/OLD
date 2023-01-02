@@ -10,9 +10,9 @@ main:
   - name: Research
     url: '#projects'
     weight: 30
- # - name: Teaching
-  #  url: '#teach'
-  #  weight: 40
+  - name: Teaching
+    url: '#teach'
+    weight: 40
   - name: Contact
     url: '#contact'
     weight: 50
