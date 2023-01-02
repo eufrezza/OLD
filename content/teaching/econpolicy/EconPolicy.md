@@ -6,7 +6,7 @@ draft: false
 summary: Introduction to Economic Policy (Prof. Gaia Narciso and Joe Kopecky)
 tags:
 - teaching
-title: Intro to Economic Policy
+title: Intro to Economic Policy (Bsc. Year 1)
 ---
 Info About 
 
