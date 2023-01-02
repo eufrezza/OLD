@@ -1,8 +1,7 @@
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
-
+widget: teaching
 # This file represents a page section.
 headless: true
 
@@ -11,6 +10,7 @@ weight: 75
 
 title: Teaching
 subtitle: ''
+
 
 #content:
   # Page type to display. E.g. project.
