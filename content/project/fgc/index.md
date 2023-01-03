@@ -2,7 +2,8 @@
 abstract: ''
 abstract_short: ''
 authors:
-- jj
+- Eugenia Frezza
+- Suzanna Khalifa 
 
 date: ''
 header: {}
@@ -10,15 +11,15 @@ highlight: false
 image_preview: ''
 math: false
 projects: []
-publication: working paper
-publication_short: working paper
+publication: ''
+publication_short: ''
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["0"]
 selected: true
-title: jjj
+title: 'Female Genital Cutting and Intimate Partner Violence: Theory and Evidence from Nigeria'
 url_code: ''
 url_dataset: ''
 url_pdf: ''
