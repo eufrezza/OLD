@@ -2,7 +2,7 @@
 #abstract:
 #abstract_short:
 authors:
-- [Suzanna Khalifa](https://sites.google.com/view/suzanna-khalifa/accueil)'
+- Eugenia Frezza 
 #- Wenli Li
 #- Florian Oswald
 date: ''
