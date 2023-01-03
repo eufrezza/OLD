@@ -1,8 +1,8 @@
 ---
 #abstract:
 #abstract_short:
-#authors:
-#- wi
+authors:
+- [Suzanna Khalifa](https://sites.google.com/view/suzanna-khalifa/accueil)'
 #- Wenli Li
 #- Florian Oswald
 date: ''
@@ -19,7 +19,7 @@ publication_short: working paper
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 selected: true
-title: 'Female Genital Cutting and Intimate Partner Violence: Theory and Evidence from Nigeria - joint with [Suzanna Khalifa](https://sites.google.com/view/suzanna-khalifa/accueil)'
+title: 'Female Genital Cutting and Intimate Partner Violence: Theory and Evidence from Nigeria - joint with 
 url_code: ''
 url_dataset: ''
 url_pdf: ''
