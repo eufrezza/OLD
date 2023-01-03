@@ -35,7 +35,6 @@ content:
 
   # Filter on criteria
   filters:
-    tag: ''
     category: ''
     publication_type: '3'
     author: ''
