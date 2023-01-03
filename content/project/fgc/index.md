@@ -18,7 +18,7 @@ publication_short: working paper
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 selected: true
-title: 'Female Genital Cutting and Intimate Partner Violence: Theory and Evidence from Nigeria 
+title: 'Female Genital Cutting and Intimate Partner Violence: Theory and Evidence from Nigeria'
 url_code: ''
 url_dataset: ''
 url_pdf: ''
