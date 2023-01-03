@@ -6,9 +6,9 @@ draft: false
 summary: Impact Evaluation (Prof. Alejandra Ramos)
 tags:
 - teaching
-title: Impact Evaluation (Msc. Year 1)
+title: TA of Impact Evaluation (Msc. Year 1)
 ---
-Info About 
+
 
 ## Students' Evaluations
 

@@ -3,12 +3,12 @@ categories: []
 date: ''
 draft: false
 
-summary: Econometrics(Prof. Gaia Narciso and Nicola Mastrorocco)
+summary: Econometrics (Prof. Gaia Narciso and Nicola Mastrorocco)
 tags:
 - teaching
-title: Econometrics (Bsc. Year 3)
+title: TA of Econometrics (Bsc. Year 3)
 ---
-Info About 
+
 
 ## Students' Evaluations
 
