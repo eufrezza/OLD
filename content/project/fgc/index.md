@@ -1,31 +1,32 @@
 ---
-title: 'Female Genital Cutting and Intimate Partner Violence: Theory and Evidence from Nigeria'
-summary: Joint with Suzanna Khalifa
-tags:
-  - Work in Progress
+#abstract:
+#abstract_short:
+#authors:
+#- wi
+#- Wenli Li
+#- Florian Oswald
 date: ''
-
-# Optional external URL for project (replaces project detail page).
-# external_link: ''
-
-#image:
- # caption: Photo by rawpixel on Unsplash
-  #focal_point: Smart
-
-#links:
- # - icon: twitter
- #   icon_pack: fab
-  #  name: Follow
-  #  url: https://twitter.com/georgecushen
-#url_code: ''
-#url_pdf: ''
-#url_slides: ''
-#url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
+header: {}
+highlight: false
+image_preview: ''
+math: false
+projects: []
+publication: working paper
+publication_short: working paper
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["3"]
+selected: true
+title: 'Female Genital Cutting and Intimate Partner Violence: Theory and Evidence from Nigeria - joint with [Suzanna Khalifa](https://sites.google.com/view/suzanna-khalifa/accueil)'
+url_code: ''
+url_dataset: ''
+url_pdf: ''
+url_poster: ''
+url_preprint: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---

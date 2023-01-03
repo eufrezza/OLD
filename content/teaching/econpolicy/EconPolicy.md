@@ -3,10 +3,10 @@ categories: []
 date: ''
 draft: false
 
-summary: Introduction to Economic Policy (Prof. Gaia Narciso and Joe Kopecky)
+summary: 2019-2020
 tags:
 - teaching
-title: TA of Intro to Economic Policy (Bsc. Year 1)
+title: Introuction to Economic Policy A/B (Bsc. Year 1) - TA for [Prof. Gaia Narciso](https://www.tcd.ie/Economics/staff/narcisog/) and [Prof. Joseph Kopecky](https://www.josephkopecky.com/) 
 ---
 
 
