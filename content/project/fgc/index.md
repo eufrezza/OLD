@@ -2,7 +2,7 @@
 abstract: ''
 abstract_short: ''
 authors:
-- Suzanna Khalifa
+- with Suzanna Khalifa
 
 #date: ''
 header: {}
