@@ -2,7 +2,7 @@
 title: "Try"
 
 # Publication name and optional abbreviated publication name.
-publication: "*Try. <a href='https://doi.org/10.1016/j.psfr.2022.06.004' target='_blank' rel='noopener noreferrer'>doi.org/10.1016/j.psfr.2022.06.004</a>"
+publication: "*Try."
 
 #publication_short: 
 
@@ -18,15 +18,12 @@ add_badge: true
 
 featured: true
 
-date: "2022-06-23T00:00:00-04:00"
+date: ""
 
-doi: "10.1016/j.psfr.2022.06.004"
+doi: ""
 
 external_link: 
 
-links: 
- - name: PDF
-   url: "https://remi-theriault.com/papers/Miglianico_et_al_2022.pdf"
 
 abstract: "blab."
 
