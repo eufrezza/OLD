@@ -9,6 +9,11 @@ publication: ""
 authors:
 - Suzanna Khalifa
 
+_build:
+  list: never 
+  publishResources: false 
+  render: never 
+  
 publication_types:
 - "3"
 
