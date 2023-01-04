@@ -3,7 +3,7 @@ abstract: ''
 abstract_short: ''
 authors:
   - Suzanna
-    external_link: https://github.com/eufrezza
+    
 #date: ''
 header: {}
 highlight: false
