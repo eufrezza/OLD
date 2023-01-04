@@ -2,8 +2,7 @@
 abstract: ''
 abstract_short: ''
 authors:
-- Eugenia Frezza
-- Suzanna Khalifa 
+- 'Female Genital Cutting and Intimate Partner Violence: Theory and Evidence from Nigeria, joint with Suzanna Khalifa'
 
 date: ''
 header: {}
@@ -19,7 +18,7 @@ publication_short: ''
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 selected: true
-title: 'Female Genital Cutting and Intimate Partner Violence: Theory and Evidence from Nigeria'
+title: ''
 url_code: ''
 url_dataset: ''
 url_pdf: ''
