@@ -13,9 +13,9 @@ _build:
   list: never 
   publishResources: false 
   render: never 
-  
+
 publication_types:
-- "3"
+- "2"
 
 # Show publication and sharing statistics? (requires valid doi)
 add_badge: false
