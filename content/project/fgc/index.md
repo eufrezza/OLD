@@ -4,7 +4,7 @@ abstract_short: ''
 authors:
 - 'Female Genital Cutting and Intimate Partner Violence: Theory and Evidence from Nigeria, joint with Suzanna Khalifa'
 
-date: ''
+#date: ''
 header: {}
 highlight: false
 image_preview: ''
@@ -18,7 +18,7 @@ publication_short: ''
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 selected: true
-title: ''
+#title: ''
 url_code: ''
 url_dataset: ''
 url_pdf: ''
