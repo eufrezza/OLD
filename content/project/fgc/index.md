@@ -3,6 +3,7 @@ abstract: ''
 abstract_short: ''
 authors:
 - with Suzanna Khalifa
+  external_link: https://sites.google.com/view/suzanna-khalifa/accueil
 
 #date: ''
 header: {}
