@@ -2,9 +2,8 @@
 abstract: ''
 abstract_short: ''
 authors:
-- with Suzanna Khalifa
-  external_link: https://sites.google.com/view/suzanna-khalifa/accueil
-
+  - Suzanna
+    external_link: https://github.com/eufrezza
 #date: ''
 header: {}
 highlight: false
