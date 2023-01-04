@@ -1,33 +1,34 @@
 ---
-title: "Female Genital Cutting and Intimate Partner Violence: Theory and Evidence from Nigeria."
+title: "Try"
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Try. <a href='https://doi.org/10.1016/j.psfr.2022.06.004' target='_blank' rel='noopener noreferrer'>doi.org/10.1016/j.psfr.2022.06.004</a>"
 
 #publication_short: 
 
 authors:
-- Suzanna Khalifa
+- SK
+
 
 publication_types:
-- "3"
+- "2"
 
 # Show publication and sharing statistics? (requires valid doi)
-add_badge: false
+add_badge: true
 
-featured: false 
+featured: true
 
 date: "2022-06-23T00:00:00-04:00"
 
-doi: ""
+doi: "10.1016/j.psfr.2022.06.004"
 
 external_link: 
 
-#links: 
-# - name: PDF
-#   url: "https://remi-theriault.com/papers/Miglianico_et_al_2022.pdf"
+links: 
+ - name: PDF
+   url: "https://remi-theriault.com/papers/Miglianico_et_al_2022.pdf"
 
-#abstract: "Introduction. Research in positive psychology suggests that certain psychotherapy practices yield substantial clinical benefits, but it is not always clear to clinicians which practices to prioritize or how to integrate them into psychotherapy. Goal. This research aims to identify and explain, for clinicians, certain clinical practices to be integrated into psychotherapeutic practice. Method. Eight professionals (including: professor-researchers, psychologists, and doctoral students) gathered during six two-hour meetings to identify, classify, and describe how the results of recent research could inform interventions with clients. These conclusions were subsequently specified and developed via a more in-depth comparison with the literature. Results. We describe eight practices: (1) Also assess what is going well with clients (2) Foster their self-determined motivation; (3) Highlight their strengths and skills; (4) Highlight their resilience; (5) Promote self-compassion and loving-kindness; (6) Foster support and social cohesion through gratitude and compassion; (7) Foster the development of a growth mindset; and (8) Integrate, as a therapist, those same principles that promote psychological well-being. Conclusion. Clinicians and their clients would benefit from promoting these practices in psychotherapy."
+abstract: "blab."
 
 
 # ####################################################################
@@ -53,9 +54,9 @@ external_link:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-#slides: example
+slides: example
 
-#math: true
+math: true
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
