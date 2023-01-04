@@ -2,7 +2,7 @@
 abstract: ''
 abstract_short: ''
 authors:
-  - Suzanna
+  - with  <a href="https://sites.google.com/view/suzanna-khalifa/accueil" target="_blank">Suzanna Khalifa</a>
     
 #date: ''
 header: {}
