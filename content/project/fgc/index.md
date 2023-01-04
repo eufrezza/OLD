@@ -14,7 +14,7 @@ publication: ''
 publication_short: ''
 _build:
   list: always
-  publishResources: true
+  publishResources: false
   render: never
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
