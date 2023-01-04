@@ -2,7 +2,7 @@
 abstract: ''
 abstract_short: ''
 authors:
-- 'Female Genital Cutting and Intimate Partner Violence: Theory and Evidence from Nigeria, joint with [Suzanna Khalifa](https://www.tcd.ie/Economics/)'
+- Suzanna Khalifa
 
 #date: ''
 header: {}
@@ -12,13 +12,17 @@ math: false
 projects: []
 publication: ''
 publication_short: ''
+_build:
+  list: always
+  publishResources: true
+  render: never
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 selected: true
-#title: ''
+title: 'Female Genital Cutting and Intimate Partner Violence: Theory and Evidence from Nigeria'
 url_code: ''
 url_dataset: ''
 url_pdf: ''
