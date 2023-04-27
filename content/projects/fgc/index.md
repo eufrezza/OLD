@@ -16,7 +16,7 @@ url_slides: ''
 url_source: ''
 url_video: ''
 authors:
- - with 'Suzanna Khalifa[https://sites.google.com/view/suzanna-khalifa/accueil]'
+ - with Suzanna Khalifa
 url_code: ''
 url_dataset: ''
 url_pdf: ''
