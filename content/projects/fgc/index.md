@@ -5,7 +5,7 @@
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 selected: false
-title: 'Female Genital Cutting and Women's autonomy: Theory and Evidence from Nigeria'
+title: 'Female Genital Cutting and Women autonomy: Theory and Evidence from Nigeria'
 url_code: ''
 url_dataset: ''
 url_pdf: ''
