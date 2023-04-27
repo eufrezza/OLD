@@ -15,7 +15,7 @@ main:
     weight: 3
     parent: 'Research'
   - name: Working Papers
-    url: '#publications_selected'
+    url: '#wip'
     parent: 'Research'
     weight: 2
   - name: Teaching
