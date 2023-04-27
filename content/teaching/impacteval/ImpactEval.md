@@ -10,7 +10,11 @@ title: TA of Impact Evaluation (MSc. Year 1)
 ---
 
 
-## Students' Evaluations
+## Syllabus 
 
-* The entire course material is on the website [Numerical Methods](https://floswald.github.io/NumericalMethods/)
+* Topics covered in this module include:
+- Impact Evaluation and the Selection Problem;
+- Randomized Controlled Trials;
+- Non-Experimental approaches: Difference-in-Difference; Instrument Variable; Regression Discontinuity
+
 
