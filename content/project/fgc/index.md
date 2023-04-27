@@ -4,7 +4,7 @@
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
-selected: true
+selected: false
 title: 'Female Genital Cutting and Intimate Partner Violence: Theory and Evidence from Nigeria'
 url_code: ''
 url_dataset: ''
@@ -15,7 +15,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-csauthors:
+authors:
  - with 'Suzanna Khalifa'
 url_code: 'https://sites.google.com/view/suzanna-khalifa/accueil'
 url_dataset: ''

@@ -29,7 +29,7 @@ education:
     - course: PhD in Economics
       institution: Trinity College Dublin
       year: 2023
-    - course: Msc in Economics 
+    - course: MSc in Economics 
       institution: University of Bologna
       year: 2018
     - course: BSc in Economics
