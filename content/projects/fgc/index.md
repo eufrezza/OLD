@@ -5,7 +5,7 @@
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 selected: false
-title: 'Female Genital Cutting and Intimate Partner Violence: Theory and Evidence from Nigeria'
+title: 'Female Genital Cutting and Women's autonomy: Theory and Evidence from Nigeria'
 url_code: ''
 url_dataset: ''
 url_pdf: ''
@@ -16,8 +16,8 @@ url_slides: ''
 url_source: ''
 url_video: ''
 authors:
- - with 'Suzanna Khalifa'
-url_code: 'https://sites.google.com/view/suzanna-khalifa/accueil'
+ - with 'Suzanna Khalifa[https://sites.google.com/view/suzanna-khalifa/accueil]'
+url_code: ''
 url_dataset: ''
 url_pdf: ''
 url_poster: ''
