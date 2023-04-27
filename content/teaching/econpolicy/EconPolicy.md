@@ -6,7 +6,7 @@ draft: false
 summary: Prof. Gaia Narciso and Joseph Kopecky
 tags:
 - teaching
-title: TA of Introduction to Economic Policy (Bsc. Year 1)
+title: TA of Introduction to Economic Policy (BSc. Year 1)
 ---
 
 
