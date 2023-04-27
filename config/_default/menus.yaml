@@ -10,14 +10,10 @@ main:
   - name: Research
     url: '#projects'
     weight: 30
-  - name: Projects
+  - name: Work in progress
     url: '#projects'
     weight: 3
     parent: 'Research'
-  - name: Publications
-    url: '#publications'
-    parent: 'Research'
-    weight: 1
   - name: Working Papers
     url: '#publications_selected'
     parent: 'Research'
