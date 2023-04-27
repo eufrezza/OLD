@@ -10,6 +10,18 @@ main:
   - name: Research
     url: '#projects'
     weight: 30
+    - name: Projects
+    url: '#projects'
+    weight: 3
+    parent: 'Research'
+   - name: Publications
+    url: '#publications'
+    parent: 'Research'
+    weight: 1
+   - name: Working Papers
+    url: '#publications_selected'
+    parent: 'Research'
+    weight: 2
   - name: Teaching
     url: '#teaching'
     weight: 40
@@ -22,3 +34,4 @@ main:
 #  - name: CV
 #    url: uploads/resume.pdf
 #    weight: 70
+
