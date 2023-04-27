@@ -11,13 +11,10 @@ title: TA of Introduction to Economic Policy (BSc. Year 1)
 
 
 ### Syllabus 
-## Topics discussed during Michaelmas Term include: 
 - Introduction to economics: how markets work
 - Market failure
 -  Income inequality and poverty
 - Market structures
-
-## Topics discussed during Hilary Term include:
 - Macroeconomics: looking at the economy as a whole
 - Economic growth
 - Business Cycles
