@@ -10,9 +10,9 @@ title: TA of Impact Evaluation (MSc. Year 1)
 ---
 
 
-## Syllabus 
+### Syllabus 
 
-###  Topics covered in this module include:
+##  Topics covered in this module include:
 - Impact Evaluation and the Selection Problem;
 - Randomized Controlled Trials;
 - Non-Experimental approaches: Difference-in-Difference; Instrument Variable; Regression Discontinuity

@@ -10,6 +10,15 @@ title: TA of Introduction to Economic Policy (BSc. Year 1)
 ---
 
 
-## Students' Evaluations
+### Syllabus 
+## Topics discussed during Michaelmas Term include: 
+- Introduction to economics: how markets work
+- Market failure
+-  Income inequality and poverty
+- Market structures
 
-* The entire course material is on the website [Numerical Methods](https://floswald.github.io/NumericalMethods/)
+## Topics discussed during Hilary Term include:
+- Macroeconomics: looking at the economy as a whole
+- Economic growth
+- Business Cycles
+- Economic Policy Areas
