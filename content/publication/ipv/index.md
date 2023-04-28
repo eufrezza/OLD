@@ -1,5 +1,5 @@
 ---
-abstract: 'Draft available soon! '
+abstract: 'Draft available soon!'
 abstract_short: 
 authors:
 - admin
