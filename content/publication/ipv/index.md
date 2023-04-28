@@ -17,7 +17,7 @@ publication_short: ''
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
-selected: true
+selected: false
 title: Intimate-Partner-Violence and Attitudes in India
 url_code: ''
 url_dataset: ''
