@@ -3,10 +3,10 @@
 
 title: "Female Genital Cutting and Intimate Partner Violence: Theory and Evidence from Nigeria"
 summary: ""
-authors: [Suzanna Khalifa]
+authors: [with Suzanna Khalifa]
 tags: []
 categories: []
-date: []
+date: 2023-04-20T17:39:51+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
