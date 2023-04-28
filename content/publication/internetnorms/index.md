@@ -1,6 +1,6 @@
 ---
-abstract: 'Awarded Best Paper by a Woman Economist by the Irish Economic Association'
-abstract_short: Draft available soon! 
+abstract: 'Awarded Best Paper by a Woman Economist by the Irish Economic Association - Draft available soon!'
+abstract_short: 
 authors:
 - admin
 
@@ -16,7 +16,7 @@ publication_short: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["0"]
 selected: true
 title: Fast Internet and Gender Norms, Evidence from Sub-Saharan Africa
 url_code: ''
