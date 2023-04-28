@@ -3,7 +3,6 @@ title: "Female Genital Cutting and Intimate Partner Violence: Theory and Evidenc
 authors:
 - admin
 - Suzanna Khalifa (Princeton University)
-date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
