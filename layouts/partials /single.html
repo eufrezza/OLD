@@ -30,7 +30,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">{{ i18n "publication_type" }}</div>
           <div class="col-12 col-md-9">
-            <a section" "publication")}}#{{ $pub_type | anchorize }}">
+            <a href="{{ (site.GetPage "section" "publication")}}#{{ $pub_type | anchorize }}">
               {{ index $pub_types $pub_type }}
             </a>
           </div>
