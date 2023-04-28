@@ -18,7 +18,7 @@ publication_short: workingpapers
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 selected: true
-title: Fast Internet and Gender Norms: Evidence from Sub-Saharan Africa
+title: Fast Internet and Gender Norms, Evidence from Sub-Saharan Africa
 url_code: ''
 url_dataset: ''
 url_pdf: ''
