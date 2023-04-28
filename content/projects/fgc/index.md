@@ -1,14 +1,13 @@
 ---
-title: "The Impact ornal Effects and Property Prices"
+title: "Female Genital Cutting and Intimate Partner Violence: Theory and Evidence from Nigeria"
 authors:
 - admin
-- Sun Kyoung Lee (UMICH)
-- Ronan Lyons (TCD)
-date: "2023-04-07T00:00:00Z"
+- Suzanna Khalifa (Princeton University)
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -47,7 +46,7 @@ image:
   focal_point: ""
   preview_only: false
 
-abstract: "Ikkkal affiliation. We then implement a spatial regression discontinuity design to estimate the causal effect of rent control."
+abstract: ""
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
