@@ -1,5 +1,5 @@
 ---
-abstract: 'Awarded Best Paper by a Woman Economist by the Irish Economic Association - Draft available soon!'
+abstract: 'Awarded Best Paper by a Woman Economist by the Irish Economic Association, Draft available soon!'
 abstract_short: 
 authors:
 - admin
