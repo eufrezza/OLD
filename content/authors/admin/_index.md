@@ -67,7 +67,8 @@ highlight_name: true
 ---
 
 I am a PhD Candidate in Economics at [Trinity College Dublin](https://www.tcd.ie/Economics/) and an [Irish Research Council Scholar](https://research.ie/), under the supervision of [Selim Gulesci](https://sites.google.com/view/selimgulesci/home?authuser=0) and [Alejandra Ramos](https://sites.google.com/site/alejandraramosmoreno/). I am also affiliated with the [Trinity Impact Evaluation Unit (TIME)](https://www.tcd.ie/time/). My fields of research are at the intersection between Gender and Development Economics.
-News: I have been awarded the [Luca D'Agliano][https://www.fondazioneeinaudi.it/en/participate/scholarships] Research Grant to pursue my research on IPV and gender norms! 
+
+I have been awarded the [Luca D'Agliano](https://www.fondazioneeinaudi.it/en/participate/scholarships) Research Grant to pursue my research on IPV and gender norms! 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}} CV{{< /staticref >}}.
