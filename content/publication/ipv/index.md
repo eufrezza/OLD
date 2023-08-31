@@ -18,7 +18,8 @@ publication_short: ''
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 selected: false
-title: Intimate-Partner-Violence and Attitudes in India
+title: Accepting the unacceptable. Does intimate partner violence
+shape the tolerance of violence?
 url_code: ''
 url_dataset: ''
 url_pdf: ''
