@@ -14,7 +14,7 @@ where the husbands are legally allowed to drink at age 21 to states where they a
 I also find that wives’ exposure to violence can increase their tolerance towards intimate partner
 violence (IPV) by up to 0.36 standard deviations. These findings suggest that the longer the duration
 of violence, the more the victims tend to find violence acceptable as a coping mechanism.'
-abstract_short: 
+abstract_short: 'Draft available upon request.'
 authors:
 - admin
 
