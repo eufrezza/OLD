@@ -1,6 +1,17 @@
 ---
-abstract: 'Awarded Best Paper by a Woman Economist by the Irish Economic Association, Draft available soon!'
-abstract_short: 
+abstract: 'Is internet a tool for women’s empowerment or does it exacerbate discriminatory gender
+norms? I answer this question by exploiting the gradual arrival of fast internet between
+2008-2012 on African coasts via submarine cables from Europe to retrieve a causal effect
+of internet on gender norms around attitudes towards intimate-partner-violence (IPV).
+Specifically, I compare individuals’ attitudes towards violence in locations with high internet
+penetration and those without, exploiting differences in the timing of the high-speed
+internet arrival. Results show that fast internet leads to more regressive gender norms. Individuals
+located in connected areas are more likely to find violence justifiable. This effect
+is stronger for males. I then explore the potential mechanisms behind this result. The most
+likely mechanism to be at play in this setting is that internet causes more regressive gender
+norms because it might change the balance of power within the household, by affecting
+labour market opportunities for men and women differently.'
+abstract_short: 'Awarded Best Paper by a Woman Economist by the Irish Economic Association, Draft available soon!'
 authors:
 - admin
 
@@ -18,7 +29,7 @@ publication_short: ''
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 selected: true
-title: Fast Internet and Gender Norms, Evidence from Sub-Saharan Africa
+title: Fast Internet and Gender Norms. Evidence from Sub-Saharan Africa (Best Paper by a Woman Economist IEA)
 url_code: ''
 url_dataset: ''
 url_pdf: ''
