@@ -18,8 +18,7 @@ publication_short: ''
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 selected: false
-title: Accepting the unacceptable. Does intimate partner violence
-shape the tolerance of violence?
+title: Accepting the unacceptable. Does intimate partner violence shape the tolerance of violence?
 url_code: ''
 url_dataset: ''
 url_pdf: ''
