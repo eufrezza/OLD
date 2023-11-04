@@ -70,5 +70,6 @@ I am a PhD Candidate in Economics at [Trinity College Dublin](https://www.tcd.ie
 
 NEWS: I have been awarded the [Luca D'Agliano](https://www.fondazioneeinaudi.it/en/participate/scholarships) Research Grant to pursue my research on Intimate Partner Violence and gender norms! 
 
+I will be on the 2023-2024 job market. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}} CV{{< /staticref >}}.
