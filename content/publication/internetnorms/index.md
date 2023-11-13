@@ -19,6 +19,8 @@ publication_short: ''
 publication_types: ["3"]
 selected: true
 title: 'Fast Internet and Gender Norms: Evidence from Sub-Saharan Africa'
+subtitle: 'Awarded the ISWE prize from the Irish Economic Association'
+
 url_code: ''
 url_dataset: ''
 url_pdf: 'https://drive.google.com/drive/folders/1NEcE2vc-rNrKnZiHN1cmQ6EYJaTutxwE'
