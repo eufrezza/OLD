@@ -18,7 +18,7 @@ publication_short: ''
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 selected: true
-title: 'Fast Internet and Gender Norms: Evidence from Sub-Saharan Africa (Awarded the ISWE prize from IEA)'
+title: 'Fast Internet and Gender Norms: Evidence from Sub-Saharan Africa (Awarded the [ISWE prize](https://www.iea.ie/2022/09/28/fast-internet-and-gender-norms-evidence-from-sub-saharan-africa-recipient-of-the-first-iswe-prize-for-best-paper-by-a-woman-economist/) from IEA)'
 subtitle: 'Awarded the ISWE prize from the Irish Economic Association'
 
 url_code: ''
