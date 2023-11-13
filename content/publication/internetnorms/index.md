@@ -1,5 +1,16 @@
 ---
-abstract: 'Is internet a tool for women's empowerment or does it exacerbate discriminatory gender norms? I answer this question by exploiting the gradual arrival of fast internet between 2008-2012 on African coasts via submarine cables from Europe to retrieve a causal effect of internet on gender norms around attitudes towards intimate-partner-violence (IPV). Specifically, I compare individuals’ attitudes towards violence in locations with high internet penetration and those without, exploiting differences in the timing of the high-speed internet arrival. Results show that fast internet leads to more regressive gender norms. Individuals located in connected areas are more likely to find violence justifiable. This effect is stronger for males. I then explore the potential mechanisms behind this result. The most likely mechanism to be at play in this setting is that internet causes more regressive gender norms because it might change the balance of power within the household, by affecting labour market opportunities for men and women differently.'
+abstract: 'I study whether intimate partner violence has a causal effect on victims’ tolerance towards it in a
+context where divorce is very costly. First, I show theoretically that tolerance of violence can serve
+as a coping mechanism, particularly under prolonged exposure to abuse. I empirically test this
+hypothesis in the context of India. To do so, I leverage variations in the minimum legal drinking,
+employing a regression discontinuity design and an event study approach. The findings show a
+4-5 percentage points increase in wives’ likelihood of experiencing IPV as their husbands attain
+the legal drinking age. In the short-run, this does not lead to a change in wives’ IPV tolerance. To
+study the effect of prolonged exposure to IPV on attitudes, I compare couples living in states with
+different legal drinking ages. I find that earlier legal drinking increases the exposure to violence
+by up to 6 months, which in turn leads to a 0.3 standard deviation increase in wives’ tolerance
+towards violence. These findings suggest that the longer the exposure to violence, the more the
+victims may normalise and justify violence inflicted on them as a coping mechanism.'
 #abstract_short: ''   
 authors:
 - #admin
@@ -18,8 +29,7 @@ publication_short: ''
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 selected: true
-title: Fast Internet and Gender Norms. Evidence from Sub-Saharan Africa (Best Paper by a Woman Economist IEA)
-
+title: 'Accepting the unacceptable: Does intimate partner violence shape the tolerance of violence?'
 url_code: ''
 url_dataset: ''
 url_pdf: 'https://drive.google.com/drive/folders/1VfxuCjxhs2Xy8i4X-BrE47SDrx2p9tAR'
