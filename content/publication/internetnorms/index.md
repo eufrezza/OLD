@@ -22,7 +22,7 @@ title: Fast Internet and Gender Norms. Evidence from Sub-Saharan Africa
 subtitle: Best Paper by a Woman Economist IEA
 url_code: ''
 url_dataset: ''
-url_pdf: 'https://drive.google.com/drive/folders/1NEcE2vc-rNrKnZiHN1cmQ6EYJaTutxwE'
+url_pdf: 'https://drive.google.com/drive/folders/1VfxuCjxhs2Xy8i4X-BrE47SDrx2p9tAR'
 url_poster: ''
 url_preprint: ''
 url_project: ''
