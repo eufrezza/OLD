@@ -18,8 +18,8 @@ publication_short: ''
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 selected: true
-title: Fast Internet and Gender Norms. Evidence from Sub-Saharan Africa 
-summary: Best Paper by a Woman Economist IEA
+title: Fast Internet and Gender Norms. Evidence from Sub-Saharan Africa -- Best Paper by a Woman Economist IEA
+
 url_code: ''
 url_dataset: ''
 url_pdf: 'https://drive.google.com/drive/folders/1VfxuCjxhs2Xy8i4X-BrE47SDrx2p9tAR'
