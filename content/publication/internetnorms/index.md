@@ -19,7 +19,7 @@ publication_short: ''
 publication_types: ["3"]
 selected: true
 title: Fast Internet and Gender Norms. Evidence from Sub-Saharan Africa 
-subtitle: Best Paper by a Woman Economist IEA
+summary: Best Paper by a Woman Economist IEA
 url_code: ''
 url_dataset: ''
 url_pdf: 'https://drive.google.com/drive/folders/1VfxuCjxhs2Xy8i4X-BrE47SDrx2p9tAR'
