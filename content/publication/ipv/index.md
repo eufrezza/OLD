@@ -32,7 +32,7 @@ selected: true
 title: 'Accepting the unacceptable: Does intimate partner violence shape the tolerance of violence?'
 url_code: ''
 url_dataset: ''
-url_pdf: 'chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/file:///Users/eugeniafrezza/Dropbox/_JMP/_idea1/_draft/2023_11_10.pdf'
+url_pdf: 'https://drive.google.com/drive/folders/1VfxuCjxhs2Xy8i4X-BrE47SDrx2p9tAR'
 url_poster: ''
 url_preprint: ''
 url_project: ''
