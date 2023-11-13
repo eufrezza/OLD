@@ -21,7 +21,7 @@ selected: true
 title: Fast Internet and Gender Norms. Evidence from Sub-Saharan Africa (Best Paper by a Woman Economist IEA)
 url_code: ''
 url_dataset: ''
-url_pdf: 'https://drive.google.com/drive/folders/1NEcE2vc-rNrKnZiHN1cmQ6EYJaTutxwE'
+url_pdf: 'chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/file:///Users/eugeniafrezza/Dropbox/africa_gendernorms/internet_frezzae.pdf'
 url_poster: ''
 url_preprint: ''
 url_project: ''
