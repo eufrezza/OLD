@@ -1,5 +1,6 @@
 ---
-abstract: 'I study whether intimate partner violence has a causal effect on victims’ tolerance towards it in a
+abstract: ''
+abstract_short: 'I study whether intimate partner violence has a causal effect on victims’ tolerance towards it in a
 context where divorce is very costly. First, I show theoretically that tolerance of violence can serve
 as a coping mechanism, particularly under prolonged exposure to abuse. I empirically test this
 hypothesis in the context of India. To do so, I leverage variations in the minimum legal drinking,
@@ -11,7 +12,6 @@ different legal drinking ages. I find that earlier legal drinking increases the 
 by up to 6 months, which in turn leads to a 0.3 standard deviation increase in wives’ tolerance
 towards violence. These findings suggest that the longer the exposure to violence, the more the
 victims may normalise and justify violence inflicted on them as a coping mechanism.'
-abstract_short: ''
 authors:
 - #admin
 
