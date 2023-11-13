@@ -18,9 +18,8 @@ publication_short: ''
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 selected: false
-title: Accepting the unacceptable. Does intimate partner violence shape the tolerance of violence? (Job Market Paper)
-abstract: 'CIAO'
-url_code: ''
+title: Accepting the unacceptable. Does intimate partner violence shape the tolerance of violence? (Job Market Paper)'
+url_code: ''x
 url_dataset: ''
 url_pdf: 'https://drive.google.com/drive/folders/1VfxuCjxhs2Xy8i4X-BrE47SDrx2p9tAR'
 url_poster: ''
