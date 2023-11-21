@@ -23,7 +23,7 @@ subtitle: 'Awarded the Irish Society for Women in Economics Prize for Best Paper
 
 url_code: ''
 url_dataset: ''
-url_pdf: 'https://drive.google.com/drive/folders/1NEcE2vc-rNrKnZiHN1cmQ6EYJaTutxwE'
+url_pdf: 'https://drive.google.com/file/d/1UWISvUr3bZ64-t1RbvEKcNh9M-4cYLv7/view?usp=sharing'
 url_poster: ''
 url_preprint: ''
 url_project: ''
